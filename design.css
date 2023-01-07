@@ -77,6 +77,8 @@ p {
 
     width: 450px;
     margin-left: 830px;
+    color: rgb(112, 100, 85);
+    font-weight: 10;
 }
 
 .section {
@@ -84,10 +86,132 @@ p {
     margin-left: 830px;
     margin-top: 300px;
     width: 450px;
+    color: rgb(93, 118, 118);
 
 
 }
-.similar{
+
+.similar {
     margin-left: 830px;
 
+}
+
+.styles {
+    margin-top: 38px;
+    font-weight: 700;
+    font-size: 23px;
+
+
+}
+
+
+
+.Head {
+    font-weight: 120px;
+    margin-left: 700px;
+    margin-top: 120px;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+
+.Collect {
+    display: flex;
+    margin-left: 300px;
+
+
+}
+
+.skill3 {
+    margin-left: 140px;
+    margin-right: 180px;
+
+
+
+}
+
+.skill4 {
+    margin-left: 140px;
+    margin-right: 180px;
+
+}
+
+.Modern {
+    margin-bottom: 40px;
+    color: darkcyan;
+}
+
+.btn-prim {
+    padding: 15px 28px;
+    font-size: 27px;
+    background-color: rgb(12, 158, 143);
+    border: 0px;
+    color: rgb(255, 253, 253);
+    border-radius: 7px;
+    margin-left: 500px;
+   
+}
+
+/* Gredian button */
+.btn {
+    margin-left: 150px;
+    background-image: url('images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 222px;
+    border-radius: 8px;
+    /* margin-top: 100px; */
+    padding: 1px;
+    background-image: url('images/gradient2.png');
+
+
+}
+
+.best {
+    font-size: 50px;
+    font-weight: 40px;
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(114, 148, 163);
+
+}
+
+.Headof {
+    background-color: black;
+    padding: 90px 0px;
+    margin-top: 80px;
+
+}
+
+.contact-title {
+               color: aqua;
+               height: 40px;
+               
+}
+
+.contact-sub-title {
+    color: blueviolet;
+    /* padding: 130px 300px; */
+    
+}
+
+.contact-su {
+           color: blueviolet;
+}
+.co{
+    color: brown;
+
+}
+/* Flex it */
+.Flex{
+    margin-left: 1100px;
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+/* box button */
+.Button{
+    color: blanchedalmond;
+    
 }
