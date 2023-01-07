@@ -21,9 +21,9 @@
     width: 500px;
     height: 228px;
     left: 845px;
-    top: 120px;
+    top: 150px;
     font-weight: 700px;
-    font-size: 60px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(158, 142, 119);
 
@@ -36,7 +36,7 @@
     width: 454px;
     height: 78px;
     left: 876px;
-    top: 520px;
+    top: 397px;
     font-weight: 400px;
     font-size: 18px;
     line-height: 26px;
@@ -45,26 +45,49 @@
 
 /* For button styles */
 .btn-pri {
-    padding: 20px 33px;
+    padding: 15px 28px;
     font-size: 27px;
     background-color: coral;
     border: 0px;
     color: rgb(223, 232, 229);
     border-radius: 7px;
-    margin-top: 690px;
+    margin-top: 680px;
     margin-left: 930px;
-    
-}
-main{
-    
-}
-.section-sub-title{
-    
-    width: 450px;
-    margin-left: 880px;
-}
-.section{
-    margin-left: 880px;
 
+}
+
+main {
+    margin-top: 1000px;
+    background-image: url('images/person.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 800px;
+
+
+}
+
+main h1,
+p {
+    margin-top: 30px;
+
+}
+
+
+.section-sub-title {
+
+    width: 450px;
+    margin-left: 830px;
+}
+
+.section {
+
+    margin-left: 830px;
+    margin-top: 300px;
+    width: 450px;
+
+
+}
+.similar{
+    margin-left: 830px;
 
 }
