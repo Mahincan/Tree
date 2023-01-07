@@ -181,26 +181,31 @@ p {
     background-color: black;
     padding: 90px 0px;
     margin-top: 80px;
+    border-radius: 10px;
 
+}
+.Headof a{
+    text-decoration: none;
 }
 
 .contact-title {
-               color: aqua;
+               color: rgb(182, 189, 189);
                height: 40px;
+               font-size: 30px;
                
 }
 
 .contact-sub-title {
-    color: blueviolet;
+    color: rgb(181, 175, 187);
     /* padding: 130px 300px; */
     
 }
 
 .contact-su {
-           color: blueviolet;
+           color: rgb(186, 183, 189);
 }
 .co{
-    color: brown;
+    color: rgb(151, 137, 137);
 
 }
 /* Flex it */
@@ -209,9 +214,24 @@ p {
     margin-right: 100px;
     margin-top: 0px;
     margin-bottom: 0px;
+    border: 0px;
+
 }
+
 /* box button */
 .Button{
     color: blanchedalmond;
     
+}
+.btnpri{
+    color: rgb(240, 237, 236);
+    margin-top: 20px;
+    background-color: coral;
+    border-radius: 10px;
+    padding: 16px 20px;
+
+}
+.only-form{
+    border-radius: 0px;
+    padding: 15px 17px;
 }
