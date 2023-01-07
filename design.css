@@ -1,0 +1,70 @@
+/* For banner style */
+.banner {
+    display: flex;
+    margin: 0px 210px 210px 210px;
+    text-align: right;
+
+}
+
+.header {
+    background-image: url('images/banner/banner2.png');
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+}
+
+
+.banner-title {
+    position: absolute;
+    width: 500px;
+    height: 228px;
+    left: 845px;
+    top: 120px;
+    font-weight: 700px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(158, 142, 119);
+
+
+
+}
+
+.banner-description {
+    position: absolute;
+    width: 454px;
+    height: 78px;
+    left: 876px;
+    top: 520px;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 26px;
+    color: rgb(84, 98, 98)
+}
+
+/* For button styles */
+.btn-pri {
+    padding: 20px 33px;
+    font-size: 27px;
+    background-color: coral;
+    border: 0px;
+    color: rgb(223, 232, 229);
+    border-radius: 7px;
+    margin-top: 690px;
+    margin-left: 930px;
+    
+}
+main{
+    
+}
+.section-sub-title{
+    
+    width: 450px;
+    margin-left: 880px;
+}
+.section{
+    margin-left: 880px;
+
+
+}
